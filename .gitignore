@@ -1,0 +1,12 @@
+# Arquivos temporários
+*.tmp
+*.log
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
