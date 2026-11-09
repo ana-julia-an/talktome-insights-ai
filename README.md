@@ -102,7 +102,31 @@ O planejamento prevê a seguinte evolução:
 
 ## Documentação visual
 
-As imagens do protótipo e da apresentação serão organizadas na pasta `imagens/` deste repositório.
+## 🖥️ Telas do protótipo
+
+### 1. Dashboard estratégico
+
+Visão geral dos indicadores de atendimento, reclamações e setores que precisam de atenção.
+
+![Dashboard estratégico](imagens/dashboard.png)
+
+### 2. Diagnóstico preventivo
+
+Análise de evidências, identificação de tendências e hipóteses para investigação.
+
+![Diagnóstico preventivo](imagens/diagnostico.png)
+
+### 3. Inteligência artificial conversacional
+
+Interface conceitual para realizar perguntas sobre os dados de atendimento e receber análises da IA.
+
+![IA conversacional](imagens/ia-conversacional.png)
+
+### 4. Plano de ação
+
+Organização das recomendações aprovadas, responsáveis, prazos e acompanhamento das ações.
+
+![Plano de ação](imagens/plano-de-acao.png)
 
 ## Autoria
 
